@@ -12,7 +12,7 @@ public class P1934_최소공배수 {
         int A = 0;
         int B = 0;
         int temp = 0;
-        for(int i = 0; i < T; i++) { //1~1000
+        for(int i = 0; i < T; i++) { //1수~1000
             StringTokenizer stk = new StringTokenizer(br.readLine());
             A = Integer.parseInt(stk.nextToken()); //1
             B = Integer.parseInt(stk.nextToken()); //45000
