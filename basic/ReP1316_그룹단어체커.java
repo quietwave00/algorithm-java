@@ -3,9 +3,8 @@ package org.example.basic;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 
-public class P1316_그룹단어체커 {
+public class ReP1316_그룹단어체커 {
 
     public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
