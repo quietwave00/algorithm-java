@@ -11,6 +11,7 @@ public class P120812_최빈값구하기 {
         System.out.println(solution(array));
     }
 
+
     public static int solution(int[] array) {
         List<int[]> countList = new ArrayList<>(); // [array value, count]
         List<Integer> maxNumber = new ArrayList<>();
